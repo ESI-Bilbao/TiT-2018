@@ -13,6 +13,17 @@ Por último se pide a los alumnos que creen su propia "branch" y que pongan en e
 
 LISTA DE ALUMNOS:
 
+<<<<<<< HEAD
 Armando Ferro Vázquez
 
 Ander Benito Martinez
+=======
+
+Armando Ferro Vázquez 
+....... 
+Javier de Martín Gil 
+Adrián Vázquez 
+Alvaro Herrero
+Ander Benito
+
+>>>>>>> b4883b67750faaed3c657a1d18f97e526e870178
