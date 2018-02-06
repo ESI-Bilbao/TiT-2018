@@ -14,7 +14,7 @@ Por último se pide a los alumnos que creen su propia "branch" y que pongan en e
 LISTA DE ALUMNOS:
 
 Guillermo Ozaita
-Armando Ferro Vázquez 
+Armando Ferro Vázquez
 Donetz Errasti
 Mireia Castrillo
 .......
@@ -25,3 +25,4 @@ Andreea Stanciu
 Ane Sanz Rekalde
 Markel Orallo Nogueira
 Daniel Mendinueta Martinez
+Jose Luis Gonzalez Calvo
