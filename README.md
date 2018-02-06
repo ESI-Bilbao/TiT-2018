@@ -22,4 +22,7 @@ Javier de Martín Gil
 Adrián Vázquez
 Alex Nuñez
 Andreea Stanciu
+Ane Sanz Rekalde
+Markel Orallo Nogueira
+Daniel Mendinueta Martinez
 Irene San Jose
