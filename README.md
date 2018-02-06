@@ -13,3 +13,15 @@ Por último se pide a los alumnos que creen su propia "branch" y que pongan en e
 
 LISTA DE ALUMNOS:
 
+<<<<<<< HEAD
+=======
+Armando Ferro Vázquez 
+Donetz Errasti
+Mireia Castrillo
+.......
+Javier de Martín Gil
+Adrián Vázquez
+Alex Nuñez
+Andreea Stanciu
+Ander Benito
+>>>>>>> b907675e898910d6c67cd5e75ec170f64e21a992
