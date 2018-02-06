@@ -19,4 +19,4 @@ Mireia Castrillo
 .......
 Javier de Martín Gil
 Adrián Vázquez
-Irene San José Ibarra
+Irene San Jose Ibarra
