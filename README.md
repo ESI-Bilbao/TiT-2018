@@ -19,4 +19,5 @@ Mireia Castrillo
 .......
 Javier de Martín Gil
 Adrián Vázquez
-Irene San Jose Ibarra
+Alex Nuñez
+Irene San José
