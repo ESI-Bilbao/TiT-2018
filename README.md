@@ -13,6 +13,8 @@ Por último se pide a los alumnos que creen su propia "branch" y que pongan en e
 
 LISTA DE ALUMNOS:
 
+<<<<<<< HEAD
+=======
 Guillermo Ozaita
 Armando Ferro Vázquez 
 Donetz Errasti
@@ -25,3 +27,5 @@ Andreea Stanciu
 Ane Sanz Rekalde
 Markel Orallo Nogueira
 Daniel Mendinueta Martinez
+Ander Benito
+>>>>>>> 06a3be9aadb47056e70e7427a263a3740de4f2b1
