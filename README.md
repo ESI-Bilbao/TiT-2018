@@ -14,7 +14,13 @@ Por último se pide a los alumnos que creen su propia "branch" y que pongan en e
 LISTA DE ALUMNOS:
 
 Armando Ferro Vázquez
+Donetz Errasti
+Mireia Castrillo
+>>>>>>> 07a845cfd0625bf01db135e18f6175c809c165ab
+.......
+Javier de Martín Gil
+Adrián Vázquez
+Alex Nuñez
 Ane Sanz Rekalde
 Markel Orallo Nogueira
 Daniel Mendinueta Martinez
-.......
