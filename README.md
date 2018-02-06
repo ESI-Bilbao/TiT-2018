@@ -13,3 +13,18 @@ Por último se pide a los alumnos que creen su propia "branch" y que pongan en e
 
 LISTA DE ALUMNOS:
 
+<<<<<<< HEAD
+=======
+Guillermo Ozaita
+Armando Ferro Vázquez 
+Donetz Errasti
+Mireia Castrillo
+.......
+Javier de Martín Gil
+Adrián Vázquez
+Alex Nuñez
+Andreea Stanciu
+Ane Sanz Rekalde
+Markel Orallo Nogueira
+Daniel Mendinueta Martinez
+>>>>>>> 06a3be9aadb47056e70e7427a263a3740de4f2b1
