@@ -17,3 +17,5 @@ Armando Ferro Vázquez
 Donetz Errasti
 Mireia Castrillo
 .......
+Javier de Martín Gil
+Adrián Vázquez
