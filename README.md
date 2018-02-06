@@ -17,3 +17,6 @@ Armando Ferro Vázquez
 .......
 Javier de Martín Gil
 Adrián Vázquez
+Aitor Emaldi
+Unai Abrisketa
+Asier Atutxa
