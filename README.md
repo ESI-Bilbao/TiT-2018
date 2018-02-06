@@ -12,6 +12,6 @@ Por otro lado se pide que cada alumno introduzca en el repositorio un directorio
 Por último se pide a los alumnos que creen su propia "branch" y que pongan en ella un documento "MIWORK" con datos propios tales como su nombre y apellidos y el titulo del proyecto que están realizando. Esto familiarizará a los alumnos con la creación de ramas de trabajo que puede ayudar a ordenar el trabajo del equipo.
 
 LISTA DE ALUMNOS:
-
+Guillermo Ozaita
 Armando Ferro Vázquez
 .......
