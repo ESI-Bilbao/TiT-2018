@@ -25,3 +25,4 @@ Andreea Stanciu
 Ane Sanz Rekalde
 Markel Orallo Nogueira
 Daniel Mendinueta Martinez
+Leticia Ortiz Fresno
